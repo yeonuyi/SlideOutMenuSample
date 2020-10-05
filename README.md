@@ -1,2 +1,4 @@
 # SlideOutMenuSample
-Simple Slide Out Menu Sample - Using two ViewController, without Navigation Controller
+Simple Slide Out Menu Sample - Using two ViewControllers, without Navigation Controller. Include animation.
+
+Any PR are welcome!
